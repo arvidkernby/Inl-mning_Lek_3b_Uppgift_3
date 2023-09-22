@@ -1,0 +1,39 @@
+/* Arvid Kernby TE22E */
+
+#topp {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: #35424a;
+   border-bottom: 3px solid #e8491d;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+.länkar {
+    color: white;
+}
+
+.bakgrundsbild {
+    height: 400px;
+    width: 100%;
+    background-color: #35424a;
+    border-bottom: 3px solid #e8491d;
+}
+
+#stor-h1 {
+    font-size: 100px;
+    color: white;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
