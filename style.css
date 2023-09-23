@@ -37,3 +37,36 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+#lorem {
+    color: white;
+}
+
+.mellan {
+    background-color: #35424a;
+    padding: 1px;
+    border-bottom: 3px solid #e8491d;
+}
+
+#undre {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 3px solid #e8491d;
+ }
+
+ .box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+ }
+
+#sidfot {
+    background-color: #e8491d;
+    color: white;
+    padding: 30px;
+    text-align: center;
+
+}
